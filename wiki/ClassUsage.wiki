@@ -2,7 +2,7 @@
 
 = Introduction =
 
-It's fairly simple. Just initiate the class with the class parameter the html to be parsed and call toArray function which will return the array.
+It's fairly simple. Just initiate the class with the class parameter the html to be parsed and call {{{toArray()}}} function which will return the array.
 
 = Details =
 
