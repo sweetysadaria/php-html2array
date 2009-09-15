@@ -1,4 +1,4 @@
-#summary How to use the class
+#summary How to use the class (for version 1.02)
 
 = Introduction =
 
