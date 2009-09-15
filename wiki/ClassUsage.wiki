@@ -14,7 +14,7 @@ $ar = $parser->toArray();
 var_dump($ar);
 }}}
 
-Before sending it to array you can also set the *$parser->ignoreSingleTags=true* if you want single tags (like img, meta and so on) to be ignored. 
+Before sending it to array you can also set the {{{$parser->ignoreSingleTags=true}}} if you want single tags (like img, meta and so on) to be ignored. 
 
 One more function to be used is {{{loadNode($id)}}} which will load the html node with the parameter id.
 
